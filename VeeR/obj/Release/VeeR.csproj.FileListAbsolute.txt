@@ -4,10 +4,10 @@ C:\Users\Kehinde\Desktop\projects\traytest\VeeR\bin\Release\VeeR.pdb
 C:\Users\Kehinde\Desktop\projects\traytest\VeeR\bin\Release\MaterialSkin.dll
 C:\Users\Kehinde\Desktop\projects\traytest\VeeR\obj\Release\VeeR.csproj.AssemblyReference.cache
 C:\Users\Kehinde\Desktop\projects\traytest\VeeR\obj\Release\VeeR.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kehinde\Desktop\projects\traytest\VeeR\obj\Release\VeeR.VeeRCb.resources
 C:\Users\Kehinde\Desktop\projects\traytest\VeeR\obj\Release\traytest.Properties.Resources.resources
 C:\Users\Kehinde\Desktop\projects\traytest\VeeR\obj\Release\VeeR.csproj.GenerateResource.cache
 C:\Users\Kehinde\Desktop\projects\traytest\VeeR\obj\Release\VeeR.csproj.CoreCompileInputs.cache
 C:\Users\Kehinde\Desktop\projects\traytest\VeeR\obj\Release\VeeR.csproj.CopyComplete
 C:\Users\Kehinde\Desktop\projects\traytest\VeeR\obj\Release\VeeR.exe
 C:\Users\Kehinde\Desktop\projects\traytest\VeeR\obj\Release\VeeR.pdb
-C:\Users\Kehinde\Desktop\projects\traytest\VeeR\obj\Release\traytest.VeeR_CB.resources

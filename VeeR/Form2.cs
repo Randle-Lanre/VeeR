@@ -145,8 +145,9 @@ namespace VeeR
             Console.WriteLine(selectedValue);
         }
 
-        private void VeeR_CB_FormClosing(object sender, EventArgs e)
+        private void VeeR_CB_FormClosing(object sender, FormClosingEventArgs e)
         {
+            
             _sTime.Stop();
             _sTime.Dispose();
             Application.DoEvents();
