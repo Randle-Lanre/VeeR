@@ -1,0 +1,13 @@
+C:\Users\Kehinde\Desktop\projects\traytest\ConsoleRacerV2\bin\Debug\ConsoleRacerV2.exe.config
+C:\Users\Kehinde\Desktop\projects\traytest\ConsoleRacerV2\bin\Debug\ConsoleRacerV2.exe
+C:\Users\Kehinde\Desktop\projects\traytest\ConsoleRacerV2\bin\Debug\ConsoleRacerV2.pdb
+C:\Users\Kehinde\Desktop\projects\traytest\ConsoleRacerV2\bin\Debug\MaterialSkin.dll
+C:\Users\Kehinde\Desktop\projects\traytest\ConsoleRacerV2\obj\Debug\ConsoleRacerV2.csproj.AssemblyReference.cache
+C:\Users\Kehinde\Desktop\projects\traytest\ConsoleRacerV2\obj\Debug\ConsoleRacerV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kehinde\Desktop\projects\traytest\ConsoleRacerV2\obj\Debug\traytest.Form2.resources
+C:\Users\Kehinde\Desktop\projects\traytest\ConsoleRacerV2\obj\Debug\traytest.Properties.Resources.resources
+C:\Users\Kehinde\Desktop\projects\traytest\ConsoleRacerV2\obj\Debug\ConsoleRacerV2.csproj.GenerateResource.cache
+C:\Users\Kehinde\Desktop\projects\traytest\ConsoleRacerV2\obj\Debug\ConsoleRacerV2.csproj.CoreCompileInputs.cache
+C:\Users\Kehinde\Desktop\projects\traytest\ConsoleRacerV2\obj\Debug\ConsoleRacerV2.csproj.CopyComplete
+C:\Users\Kehinde\Desktop\projects\traytest\ConsoleRacerV2\obj\Debug\ConsoleRacerV2.exe
+C:\Users\Kehinde\Desktop\projects\traytest\ConsoleRacerV2\obj\Debug\ConsoleRacerV2.pdb

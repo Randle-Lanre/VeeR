@@ -1,0 +1,13 @@
+C:\Users\Kehinde\Desktop\projects\traytest\traytest\bin\Debug\traytest.exe.config
+C:\Users\Kehinde\Desktop\projects\traytest\traytest\bin\Debug\traytest.exe
+C:\Users\Kehinde\Desktop\projects\traytest\traytest\bin\Debug\traytest.pdb
+C:\Users\Kehinde\Desktop\projects\traytest\traytest\obj\Debug\traytest.csproj.AssemblyReference.cache
+C:\Users\Kehinde\Desktop\projects\traytest\traytest\obj\Debug\traytest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kehinde\Desktop\projects\traytest\traytest\obj\Debug\traytest.Properties.Resources.resources
+C:\Users\Kehinde\Desktop\projects\traytest\traytest\obj\Debug\traytest.csproj.GenerateResource.cache
+C:\Users\Kehinde\Desktop\projects\traytest\traytest\obj\Debug\traytest.csproj.CoreCompileInputs.cache
+C:\Users\Kehinde\Desktop\projects\traytest\traytest\obj\Debug\traytest.exe
+C:\Users\Kehinde\Desktop\projects\traytest\traytest\obj\Debug\traytest.pdb
+C:\Users\Kehinde\Desktop\projects\traytest\traytest\bin\Debug\MaterialSkin.dll
+C:\Users\Kehinde\Desktop\projects\traytest\traytest\obj\Debug\traytest.Form2.resources
+C:\Users\Kehinde\Desktop\projects\traytest\traytest\obj\Debug\traytest.csproj.CopyComplete
